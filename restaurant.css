@@ -127,3 +127,37 @@ body{
     color: #00000080;
     margin: 15px 0;
 }
+
+
+/* SECTION 4 */
+
+.section4{
+    width: 1249px;
+    height: 399px;
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    align-items: center;
+    padding: 50px;
+    background: #fff;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+}
+
+.foodetails h2{
+    font-size: 22px;
+    margin: 0 0 5px;
+}
+
+.fooddetails p{
+    font-size: 15px;
+    margin: 15px 0;
+}
+
+.fooddetails button {
+    font-size: 13px;
+    padding: 10px 20px;
+    background: #ffc600;
+    text-decoration: none;
+    border: none;
+}
